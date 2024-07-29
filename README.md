@@ -9,4 +9,6 @@ galipdogan/galipdogan is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 CERTIFICATE:
+
+
 <img width="796" alt="wordpress" src="https://github.com/user-attachments/assets/13e11e24-71ea-4143-84be-7648d907e0d3">
